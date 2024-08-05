@@ -1,10 +1,10 @@
 # Guess the Number: Python Edition
 
 ## Description
-"Guess the Number: Python Edition" is a fun and interactive guessing game where players try to guess a randomly generated number between 0 and 100 within a limited number of attempts. The game offers hints to assist players in narrowing down their guesses.
+"Guess the Number: Python Edition" is a fun and interactive guessing game where players try to guess a randomly generated number between 0 and 100 within a limited number of attempts. The game offers hints to assist players in narrowing down their guesses. The game is bilingual, supporting both German and English languages.
 
 ## Features
-- User-friendly interface with text prompts.
+- User-friendly interface with text prompts in German and English.
 - Up to 3 hints per game to assist in guessing.
 - Option to play multiple rounds in a session.
 - Detailed statistics at the end of each session.
@@ -17,15 +17,11 @@
 5. Use hints wisely to improve your chances of guessing correctly.
 6. At the end of the session, view your game statistics.
 
-## Requirements
-  - Python 3.x
-  - Pygame
-
 ## Installation
-1. **Clone the repository:**
+1. Clone the repository:
 
   ```
-  git clone https://github.com/yourusername/guess-the-number-python-edition.git
+  git clone https://github.com/kernferm/guess-the-number-python-edition.git
   cd guess-the-number-python-edition
   ```
 
@@ -41,7 +37,10 @@
   python game.py
   ```
 
+## Requirements
 
+  - Python 3.x
+  - Pygame
 
 
 
