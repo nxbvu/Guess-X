@@ -1,7 +1,7 @@
 # Guess the Number: Python Edition
 
 ## Description
-"Guess the Number: Python Edition" is a fun and interactive guessing game where players try to guess a randomly generated number between 0 and 100 within a limited number of attempts. The game offers hints to assist players in narrowing down their guesses. The game is bilingual, supporting both `German` and `English` languages.
+**"Guess the Number: Python Edition"** is a fun and interactive guessing game where players try to guess a randomly generated number between `0` and `100` within a limited number of attempts. The game offers hints to assist players in narrowing down their guesses. The game is bilingual, supporting both `German` and `English` languages.
 
 ## Features
 - User-friendly interface with text prompts in German and English.
