@@ -7,6 +7,12 @@
 
 - Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos).
 
+ ### If you dont have a pet python here is a couple below:
+- **YOU ONLY NEED ONLY VERSION OF PYTHON TO RUN THIS !!**
+- [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
+- [Python 3.11.9](https://github.com/KernFerm/Py3.11.9installer)
+- [Python 3.12.1](https://github.com/KernFerm/Py3.12.1-installer-batch)
+
 ## ✨ Features
 - 🌐 User-friendly interface with text prompts in German and English.
 - 💡 Up to 3 hints per game to assist in guessing.
