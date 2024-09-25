@@ -3,6 +3,11 @@
 ## 📝 Description
 **"Guess the Number: Python Edition"** is a fun and interactive guessing game where players try to guess a randomly generated number between `0` and `100` within a limited number of attempts. The game offers hints to assist players in narrowing down their guesses. The game is bilingual, supporting both `German` and `English` languages.
 
+## Support the Project ⭐
+
+If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
+
+
 ## 📥 How to Download the Repo for First-Time Users
 
 - Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos).
